@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+**/data/
+artifacts/
+*.exe
+*.dll
+*.pdb
+*.gguf
+*.log
+*.zip
+*.user
+*.suo
+.vs/
